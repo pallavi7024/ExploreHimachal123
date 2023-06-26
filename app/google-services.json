@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "785892835496",
+    "firebase_url": "https://my-application-f078f-default-rtdb.firebaseio.com",
+    "project_id": "my-application-f078f",
+    "storage_bucket": "my-application-f078f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785892835496:android:92591da57a6baf8540029d",
+        "android_client_info": {
+          "package_name": "com.tourism.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785892835496-85ij7l8c8v0mutl4p6913e3rcbu4kkla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourism.myapplication",
+            "certificate_hash": "8a40c4750bb3417d632cddb4dd7f7cbce13d76b1"
+          }
+        },
+        {
+          "client_id": "785892835496-f1fvkr0fnff1lemgqe2g9dm6apuoq3ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourism.myapplication",
+            "certificate_hash": "f8d999153e9064ac19fbc73930e6153bb0c805b9"
+          }
+        },
+        {
+          "client_id": "785892835496-jvoif00udm5vvev98tc42euf1jsip14i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourism.myapplication",
+            "certificate_hash": "13f30c679a415c20fdd331c1487b22214d82f82f"
+          }
+        },
+        {
+          "client_id": "785892835496-1kjvm5t00r4l5pekts5aglca5a0r2up2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjLnpIq7fp5Uu9axIWdatGzPeGFhgWrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785892835496-1kjvm5t00r4l5pekts5aglca5a0r2up2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
